@@ -60,6 +60,6 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
 ## Authors
-* Abinet Tesfu    - [Abinet](https://github.com/tinsaetadese23)
+* Tinsae Tadese    - [Tinsae](https://github.com/tinsaetadese23)
  
 
